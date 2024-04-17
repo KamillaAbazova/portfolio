@@ -592,7 +592,7 @@ h6 {
         letter-spacing: 0.5px;
         font-size: 15px;
         align-self: flex-end;
-        
+        justify-content: flex-start;
     }
     .animate-pulse {
         width: 40px;
@@ -674,19 +674,6 @@ h6 {
         margin-left: 0;
     }
       
-      .orange {
-        width: 30px;
-        height: 30px;    
-    }
-    .white {
-        width: 60px;
-        height: 60px;
-    }
-    .aqua {
-        width: 40px;
-        height: 40px;
-        
-    }
     .black {
         width: 35px;
         height: 35px;
@@ -726,8 +713,7 @@ h6 {
         padding: 5px;
     }
     #loading {
-        width: 70%;
-        
+        width: 70%;    
     }
     .tools {
         width: 400px;
@@ -735,6 +721,7 @@ h6 {
     }
     .cloud {
         font-size: 12px;
+        margin-left: -50px;
     }
     .animate-pulse {
         width: 30px;
@@ -794,5 +781,7 @@ h6 {
       br {
         display: none;
       }
+    .card {
+        width: 70%;
 }
 
