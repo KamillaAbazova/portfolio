@@ -695,8 +695,8 @@ h6 {
     .btn {
         padding: 0;
         width: 150px;
-        margin-right: 170px;
-        margin-bottom: 250px;
+        margin-right: 150px;
+        margin-bottom: 200px;
         font-size: 20px;
     }
     #myself {
@@ -715,7 +715,7 @@ h6 {
         padding: 5px;
     }
     #loading {
-        width: 70%;    
+        width: 80%;    
     }
     .tools {
         width: 400px;
@@ -723,7 +723,7 @@ h6 {
     }
     .cloud {
         font-size: 12px;
-        margin-right: 200px;
+        margin-left: 0;
     }
     .animate-pulse {
         width: 30px;
