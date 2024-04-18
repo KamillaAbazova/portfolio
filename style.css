@@ -695,6 +695,7 @@ h6 {
         width: 150px;
         margin-right: 150px;
         margin-bottom: 250px;
+        margin-top: 50px;
         font-size: 20px;
     }
     #myself {
@@ -721,7 +722,7 @@ h6 {
     }
     .cloud {
         font-size: 12px;
-        margin-left: -50px;
+        margin-left: -20px;
     }
     .animate-pulse {
         width: 30px;
@@ -772,17 +773,17 @@ h6 {
         padding: 5px;
         width: 300px;
       }
-      .anim one {
+      .one {
         display: none;
       }
-      .anim two {
+      .two {
         display: none;
       }
       br {
         display: none;
       }
     .card {
-        width: 70%;
+        width: 90%;
 }
     .orange {
         width: 60px;
