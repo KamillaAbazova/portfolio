@@ -693,9 +693,8 @@ h6 {
     .btn {
         padding: 0;
         width: 150px;
-        margin-right: 150px;
+        margin-right: 170px;
         margin-bottom: 250px;
-        margin-top: 50px;
         font-size: 20px;
     }
     #myself {
@@ -723,6 +722,7 @@ h6 {
     .cloud {
         font-size: 12px;
         margin-left: -20px;
+        width: 300px;
     }
     .animate-pulse {
         width: 30px;
