@@ -668,11 +668,12 @@ h6 {
     }
     .header {
         margin-left: 50px;
+        margin-bottom: 200px;
     }
     .heading {
         margin-top: 100px;
         margin-left: 0;
-        margin-bottom: 100px;
+       
     }
       
     .black {
@@ -722,8 +723,7 @@ h6 {
     }
     .cloud {
         font-size: 12px;
-        margin-left: -20px;
-        width: 300px;
+        margin-right: 200px;
     }
     .animate-pulse {
         width: 30px;
