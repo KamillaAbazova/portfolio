@@ -679,7 +679,7 @@ h6 {
         height: 35px;
     }
     .new-kami {
-        width: 30%;
+        width: 50%;
     }
     h1 {
         font-size: 50px;
@@ -693,7 +693,7 @@ h6 {
     .btn {
         padding: 0;
         width: 150px;
-        margin-right: 170px;
+        margin-right: 140px;
         margin-bottom: 250px;
         font-size: 20px;
     }
@@ -702,14 +702,14 @@ h6 {
     }
     .aboutMe {
         font-size: 25px;
-        margin-left: 0;
+        margin-left: -50px;
     }
     #container {
         flex-direction: column;
     }
     #about{
         width: 370px;
-        margin-left: -80px;
+        margin-left: -50px;
         padding: 5px;
     }
     #loading {
@@ -721,7 +721,7 @@ h6 {
     }
     .cloud {
         font-size: 12px;
-        margin-left: -50px;
+        margin-left: 0;
     }
     .animate-pulse {
         width: 30px;
