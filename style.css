@@ -693,7 +693,7 @@ h6 {
     .btn {
         padding: 0;
         width: 150px;
-        margin-right: 140px;
+        margin-right: 150px;
         margin-bottom: 250px;
         font-size: 20px;
     }
@@ -702,14 +702,14 @@ h6 {
     }
     .aboutMe {
         font-size: 25px;
-        margin-left: -50px;
+        margin-left: 0;
     }
     #container {
         flex-direction: column;
     }
     #about{
         width: 370px;
-        margin-left: -50px;
+        margin-left: 0;
         padding: 5px;
     }
     #loading {
@@ -721,7 +721,7 @@ h6 {
     }
     .cloud {
         font-size: 12px;
-        margin-left: 0;
+        margin-left: -50px;
     }
     .animate-pulse {
         width: 30px;
@@ -784,4 +784,15 @@ h6 {
     .card {
         width: 70%;
 }
+    .orange {
+        width: 60px;
+        height: 60px;
+        margin-left: -50px;
+    }
+    .white {
+       display: none;
+    }
+    .aqua {
+        display: none;
+    }
 
